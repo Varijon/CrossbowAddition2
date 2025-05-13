@@ -1,0 +1,10 @@
+name: CrossbowAdditions
+author: Varijon
+version: 1.0.0
+api-version: 1.21
+main: com.varijon.tinies.CrossbowAdditions.CrossbowAdditions
+commands:
+   giverepeater:
+      description: Give repeater
+      usage: /giverepeater <player>
+      permission: crossbowadditions.giverepeater
